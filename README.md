@@ -36,6 +36,17 @@ This dashboard provides deep insights into **sales, profits, regions, products, 
 ### Dashboard Overview  
 ![Dashboard](assets/screenshot-1.png)  
 
+## Profit Analysis overview
+![Profit](assets/screenshot-2.png)  
+
+## Regional Performance
+![Region](assets/screenshot-1.png)  
+
+##Top & Buttom Performance
+![Performance](assets/screenshot-1.png)  
+
+
+
 
 
 ## ⚡ Installation & Usage  
