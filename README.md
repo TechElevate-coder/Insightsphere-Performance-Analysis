@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.39.0-red.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 # 📊 InsightSphere: Sales Performance Dashboard  
 
 An interactive **Sales Analytics Dashboard** built with **Streamlit, Pandas, and Plotly**.  
