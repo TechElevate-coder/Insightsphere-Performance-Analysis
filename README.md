@@ -31,6 +31,13 @@ This dashboard provides deep insights into **sales, profits, regions, products, 
 
 ---
 
+## 📸 Screenshots  
+
+### Dashboard Overview  
+![Dashboard](assets/screenshot-1.png)  
+
+
+
 ## ⚡ Installation & Usage  
 
 1. **Clone this repository**  
