@@ -42,7 +42,7 @@ This dashboard provides deep insights into **sales, profits, regions, products, 
 ## Regional Performance
 ![Region](assets/screenshot-1.png)  
 
-##Top & Buttom Performance
+## Top & Buttom Performance
 ![Performance](assets/screenshot-1.png)  
 
 
